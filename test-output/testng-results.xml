@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[calls]]>
+    </line>
+    <line>
+      <![CDATA[calls]]>
+    </line>
+    <line>
+      <![CDATA[calls]]>
+    </line>
+    <line>
+      <![CDATA[chats]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41" started-at="2019-11-23T07:17:57Z" finished-at="2019-11-23T07:17:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41" started-at="2019-11-23T07:17:57Z" finished-at="2019-11-23T07:17:57Z">
+      <class name="testngg.Demo">
+        <test-method status="PASS" signature="calls()[pri:1, instance:testngg.Demo@2d6a9952]" name="calls" duration-ms="9" started-at="2019-11-23T12:47:57Z" finished-at="2019-11-23T12:47:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[calls]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- calls -->
+        <test-method status="PASS" signature="calls()[pri:1, instance:testngg.Demo@2d6a9952]" name="calls" duration-ms="1" started-at="2019-11-23T12:47:57Z" finished-at="2019-11-23T12:47:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[calls]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- calls -->
+        <test-method status="PASS" signature="calls()[pri:1, instance:testngg.Demo@2d6a9952]" name="calls" duration-ms="2" started-at="2019-11-23T12:47:57Z" finished-at="2019-11-23T12:47:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[calls]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- calls -->
+        <test-method status="PASS" signature="chats()[pri:2, instance:testngg.Demo@2d6a9952]" name="chats" duration-ms="2" started-at="2019-11-23T12:47:57Z" finished-at="2019-11-23T12:47:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[chats]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- chats -->
+      </class> <!-- testngg.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
